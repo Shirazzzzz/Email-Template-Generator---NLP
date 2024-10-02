@@ -1,4 +1,5 @@
-Automated email standardization and template generation to enhance communication efficiency and quality. ● Utilized Natural Language Processing (NLP) models for sentiment analysis and applied text mining for feature extraction, and implemented
+Automated email standardization and template generation to enhance communication efficiency and quality. 
+● Utilized Natural Language Processing (NLP) models for sentiment analysis and applied text mining for feature extraction, and implemented
 
 Overview:
 
@@ -62,4 +63,5 @@ A dataset of emails, which has been collected (1000 samples). NLP tools and mode
 
 SYSTEM ARCHITECTURE:
 
-PHOTO-2024-08-24-03-45-51
+![image](https://github.com/user-attachments/assets/3d077b5e-7279-4bb0-b475-a11df0fa5080)
+
